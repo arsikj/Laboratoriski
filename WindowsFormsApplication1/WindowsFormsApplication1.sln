@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{935120E9-4394-42ED-A7CF-8CD19F3C0C9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{D46BBE5D-B805-48D7-BAE8-1CB2833A9DB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{935120E9-4394-42ED-A7CF-8CD19F3C0C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{935120E9-4394-42ED-A7CF-8CD19F3C0C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{935120E9-4394-42ED-A7CF-8CD19F3C0C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{935120E9-4394-42ED-A7CF-8CD19F3C0C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46BBE5D-B805-48D7-BAE8-1CB2833A9DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46BBE5D-B805-48D7-BAE8-1CB2833A9DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46BBE5D-B805-48D7-BAE8-1CB2833A9DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46BBE5D-B805-48D7-BAE8-1CB2833A9DB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
