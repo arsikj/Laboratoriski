@@ -7,6 +7,7 @@ using System.Drawing;
 
 namespace lab9
 {
+    [Serializable]
     class Topce
     {
         public int radius { get; set; }
